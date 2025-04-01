@@ -141,5 +141,3 @@ def mlb_scrape_season(season, season_types = ['R','P'], start = "02/01", end = "
 
     #Return: Complete pbp and shifts data for specified season as well as dataframe of game_ids which failed to return data
     return data
-
-mlb_scrape_season(2024,season_types=['R']).to_csv("mlb_pbp_2024.csv",index=False)
