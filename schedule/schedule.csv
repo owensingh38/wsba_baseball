@@ -1,0 +1,128 @@
+,id,season,season_type,away_team_abbr,home_team_abbr,api_feed_link
+0,706821,2022,S,New York Mets,St. Louis Cardinals,/api/v1.1/game/706821/feed/live
+0,706814,2022,S,Boston Red Sox,Tampa Bay Rays,/api/v1.1/game/706814/feed/live
+0,706853,2022,S,Toronto Blue Jays,Pittsburgh Pirates,/api/v1.1/game/706853/feed/live
+0,707024,2022,S,Philadelphia Phillies,Baltimore Orioles,/api/v1.1/game/707024/feed/live
+0,706901,2022,S,Atlanta Braves,Minnesota Twins,/api/v1.1/game/706901/feed/live
+0,706956,2022,S,Miami Marlins,Houston Astros,/api/v1.1/game/706956/feed/live
+0,706961,2022,S,New York Yankees,Detroit Tigers,/api/v1.1/game/706961/feed/live
+0,706837,2022,S,Texas Rangers,San Francisco Giants,/api/v1.1/game/706837/feed/live
+0,706998,2022,S,Oakland Athletics,Chicago White Sox,/api/v1.1/game/706998/feed/live
+0,707046,2022,S,Chicago Cubs,Arizona Diamondbacks,/api/v1.1/game/707046/feed/live
+0,706936,2022,S,Cincinnati Reds,Los Angeles Angels,/api/v1.1/game/706936/feed/live
+0,706910,2022,S,Chicago Cubs,Milwaukee Brewers,/api/v1.1/game/706910/feed/live
+0,706982,2022,S,Arizona Diamondbacks,Cleveland Guardians,/api/v1.1/game/706982/feed/live
+0,706844,2022,S,Kansas City Royals,San Diego Padres,/api/v1.1/game/706844/feed/live
+0,706970,2022,S,Seattle Mariners,Colorado Rockies,/api/v1.1/game/706970/feed/live
+0,706962,2022,S,Baltimore Orioles,Detroit Tigers,/api/v1.1/game/706962/feed/live
+0,707015,2022,S,Pittsburgh Pirates,Boston Red Sox,/api/v1.1/game/707015/feed/live
+0,706811,2022,S,Minnesota Twins,Tampa Bay Rays,/api/v1.1/game/706811/feed/live
+0,706885,2022,S,Atlanta Braves,New York Yankees,/api/v1.1/game/706885/feed/live
+0,706794,2022,S,Philadelphia Phillies,Toronto Blue Jays,/api/v1.1/game/706794/feed/live
+0,707004,2022,S,Los Angeles Angels,Chicago Cubs,/api/v1.1/game/707004/feed/live
+0,706927,2022,S,San Francisco Giants,Los Angeles Dodgers,/api/v1.1/game/706927/feed/live
+0,706875,2022,S,Colorado Rockies,Oakland Athletics,/api/v1.1/game/706875/feed/live
+0,706990,2022,S,San Diego Padres,Cincinnati Reds,/api/v1.1/game/706990/feed/live
+0,706804,2022,S,Cleveland Guardians,Texas Rangers,/api/v1.1/game/706804/feed/live
+0,707042,2022,S,Chicago White Sox,Arizona Diamondbacks,/api/v1.1/game/707042/feed/live
+0,706828,2022,S,Milwaukee Brewers,Seattle Mariners,/api/v1.1/game/706828/feed/live
+0,706953,2022,S,St. Louis Cardinals,Houston Astros,/api/v1.1/game/706953/feed/live
+0,706920,2022,S,Washington Nationals,Miami Marlins,/api/v1.1/game/706920/feed/live
+0,706785,2022,S,Houston Astros,Washington Nationals,/api/v1.1/game/706785/feed/live
+0,706854,2022,S,Tampa Bay Rays,Pittsburgh Pirates,/api/v1.1/game/706854/feed/live
+0,706900,2022,S,Baltimore Orioles,Minnesota Twins,/api/v1.1/game/706900/feed/live
+0,706865,2022,S,Detroit Tigers,Philadelphia Phillies,/api/v1.1/game/706865/feed/live
+0,707034,2022,S,Boston Red Sox,Atlanta Braves,/api/v1.1/game/707034/feed/live
+0,706797,2022,S,New York Yankees,Toronto Blue Jays,/api/v1.1/game/706797/feed/live
+0,706891,2022,S,Miami Marlins,New York Mets,/api/v1.1/game/706891/feed/live
+0,706873,2022,S,San Diego Padres,Oakland Athletics,/api/v1.1/game/706873/feed/live
+0,706946,2022,S,Seattle Mariners,Kansas City Royals,/api/v1.1/game/706946/feed/live
+0,706996,2022,S,Colorado Rockies,Chicago White Sox,/api/v1.1/game/706996/feed/live
+0,707041,2022,S,Cincinnati Reds,Arizona Diamondbacks,/api/v1.1/game/707041/feed/live
+0,706911,2022,S,Texas Rangers,Milwaukee Brewers,/api/v1.1/game/706911/feed/live
+0,706977,2022,S,Chicago Cubs,Cleveland Guardians,/api/v1.1/game/706977/feed/live
+0,706937,2022,S,Los Angeles Dodgers,Los Angeles Angels,/api/v1.1/game/706937/feed/live
+0,706951,2022,S,New York Mets,Houston Astros,/api/v1.1/game/706951/feed/live
+0,707023,2022,S,Pittsburgh Pirates,Baltimore Orioles,/api/v1.1/game/707023/feed/live
+0,706823,2022,S,Washington Nationals,St. Louis Cardinals,/api/v1.1/game/706823/feed/live
+0,706957,2022,S,Toronto Blue Jays,Detroit Tigers,/api/v1.1/game/706957/feed/live
+0,706898,2022,S,Boston Red Sox,Minnesota Twins,/api/v1.1/game/706898/feed/live
+0,706812,2022,S,Atlanta Braves,Tampa Bay Rays,/api/v1.1/game/706812/feed/live
+0,706884,2022,S,Philadelphia Phillies,New York Yankees,/api/v1.1/game/706884/feed/live
+0,706986,2022,S,Kansas City Royals,Cincinnati Reds,/api/v1.1/game/706986/feed/live
+0,706874,2022,S,San Francisco Giants,Oakland Athletics,/api/v1.1/game/706874/feed/live
+0,706803,2022,S,San Diego Padres,Texas Rangers,/api/v1.1/game/706803/feed/live
+0,707008,2022,S,Chicago White Sox,Chicago Cubs,/api/v1.1/game/707008/feed/live
+0,706827,2022,S,Arizona Diamondbacks,Seattle Mariners,/api/v1.1/game/706827/feed/live
+0,706928,2022,S,Los Angeles Angels,Los Angeles Dodgers,/api/v1.1/game/706928/feed/live
+0,707043,2022,S,Cleveland Guardians,Arizona Diamondbacks,/api/v1.1/game/707043/feed/live
+0,706969,2022,S,Milwaukee Brewers,Colorado Rockies,/api/v1.1/game/706969/feed/live
+0,706919,2022,S,St. Louis Cardinals,Miami Marlins,/api/v1.1/game/706919/feed/live
+0,706787,2022,S,New York Mets,Washington Nationals,/api/v1.1/game/706787/feed/live
+0,706862,2022,S,Pittsburgh Pirates,Philadelphia Phillies,/api/v1.1/game/706862/feed/live
+0,707010,2022,S,Minnesota Twins,Boston Red Sox,/api/v1.1/game/707010/feed/live
+0,707033,2022,S,Tampa Bay Rays,Atlanta Braves,/api/v1.1/game/707033/feed/live
+0,706883,2022,S,Detroit Tigers,New York Yankees,/api/v1.1/game/706883/feed/live
+0,706790,2022,S,Baltimore Orioles,Toronto Blue Jays,/api/v1.1/game/706790/feed/live
+0,706987,2022,S,Seattle Mariners,Cincinnati Reds,/api/v1.1/game/706987/feed/live
+0,706805,2022,S,Chicago Cubs,Texas Rangers,/api/v1.1/game/706805/feed/live
+0,706843,2022,S,Chicago White Sox,San Diego Padres,/api/v1.1/game/706843/feed/live
+0,706908,2022,S,Kansas City Royals,Milwaukee Brewers,/api/v1.1/game/706908/feed/live
+0,707044,2022,S,Cleveland Guardians,Arizona Diamondbacks,/api/v1.1/game/707044/feed/live
+0,706834,2022,S,Oakland Athletics,San Francisco Giants,/api/v1.1/game/706834/feed/live
+0,706966,2022,S,Cleveland Guardians,Colorado Rockies,/api/v1.1/game/706966/feed/live
+0,706921,2022,S,Los Angeles Angels,Los Angeles Dodgers,/api/v1.1/game/706921/feed/live
+0,706810,2022,S,Philadelphia Phillies,Tampa Bay Rays,/api/v1.1/game/706810/feed/live
+0,707079,2022,S,Baltimore Orioles,Detroit Tigers,/api/v1.1/game/707079/feed/live
+0,663178,2022,R,Milwaukee Brewers,Chicago Cubs,/api/v1.1/game/663178/feed/live
+0,662766,2022,R,Cleveland Guardians,Kansas City Royals,/api/v1.1/game/662766/feed/live
+0,662021,2022,R,Pittsburgh Pirates,St. Louis Cardinals,/api/v1.1/game/662021/feed/live
+0,662571,2022,R,New York Mets,Washington Nationals,/api/v1.1/game/662571/feed/live
+0,661577,2022,R,Cincinnati Reds,Atlanta Braves,/api/v1.1/game/661577/feed/live
+0,661042,2022,R,Houston Astros,Los Angeles Angels,/api/v1.1/game/661042/feed/live
+0,663418,2022,R,San Diego Padres,Arizona Diamondbacks,/api/v1.1/game/663418/feed/live
+0,661333,2022,R,Boston Red Sox,New York Yankees,/api/v1.1/game/661333/feed/live
+0,661750,2022,R,Seattle Mariners,Minnesota Twins,/api/v1.1/game/661750/feed/live
+0,661333,2022,R,Boston Red Sox,New York Yankees,/api/v1.1/game/661333/feed/live
+0,662888,2022,R,Chicago White Sox,Detroit Tigers,/api/v1.1/game/662888/feed/live
+0,661131,2022,R,Oakland Athletics,Philadelphia Phillies,/api/v1.1/game/661131/feed/live
+0,661918,2022,R,Baltimore Orioles,Tampa Bay Rays,/api/v1.1/game/661918/feed/live
+0,662933,2022,R,Los Angeles Dodgers,Colorado Rockies,/api/v1.1/game/662933/feed/live
+0,661750,2022,R,Seattle Mariners,Minnesota Twins,/api/v1.1/game/661750/feed/live
+0,662124,2022,R,Miami Marlins,San Francisco Giants,/api/v1.1/game/662124/feed/live
+0,662559,2022,R,New York Mets,Washington Nationals,/api/v1.1/game/662559/feed/live
+0,661782,2022,R,Texas Rangers,Toronto Blue Jays,/api/v1.1/game/661782/feed/live
+0,661576,2022,R,Cincinnati Reds,Atlanta Braves,/api/v1.1/game/661576/feed/live
+0,661041,2022,R,Houston Astros,Los Angeles Angels,/api/v1.1/game/661041/feed/live
+0,663417,2022,R,San Diego Padres,Arizona Diamondbacks,/api/v1.1/game/663417/feed/live
+0,663147,2022,R,Milwaukee Brewers,Chicago Cubs,/api/v1.1/game/663147/feed/live
+0,661917,2022,R,Baltimore Orioles,Tampa Bay Rays,/api/v1.1/game/661917/feed/live
+0,662864,2022,R,Chicago White Sox,Detroit Tigers,/api/v1.1/game/662864/feed/live
+0,661756,2022,R,Seattle Mariners,Minnesota Twins,/api/v1.1/game/661756/feed/live
+0,662020,2022,R,Pittsburgh Pirates,St. Louis Cardinals,/api/v1.1/game/662020/feed/live
+0,663205,2022,R,Milwaukee Brewers,Chicago Cubs,/api/v1.1/game/663205/feed/live
+0,661803,2022,R,Texas Rangers,Toronto Blue Jays,/api/v1.1/game/661803/feed/live
+0,661130,2022,R,Oakland Athletics,Philadelphia Phillies,/api/v1.1/game/661130/feed/live
+0,662123,2022,R,Miami Marlins,San Francisco Giants,/api/v1.1/game/662123/feed/live
+0,661332,2022,R,Boston Red Sox,New York Yankees,/api/v1.1/game/661332/feed/live
+0,662765,2022,R,Cleveland Guardians,Kansas City Royals,/api/v1.1/game/662765/feed/live
+0,662588,2022,R,New York Mets,Washington Nationals,/api/v1.1/game/662588/feed/live
+0,661575,2022,R,Cincinnati Reds,Atlanta Braves,/api/v1.1/game/661575/feed/live
+0,662931,2022,R,Los Angeles Dodgers,Colorado Rockies,/api/v1.1/game/662931/feed/live
+0,663404,2022,R,San Diego Padres,Arizona Diamondbacks,/api/v1.1/game/663404/feed/live
+0,661040,2022,R,Houston Astros,Los Angeles Angels,/api/v1.1/game/661040/feed/live
+0,661129,2022,R,Oakland Athletics,Philadelphia Phillies,/api/v1.1/game/661129/feed/live
+0,661916,2022,R,Baltimore Orioles,Tampa Bay Rays,/api/v1.1/game/661916/feed/live
+0,662887,2022,R,Chicago White Sox,Detroit Tigers,/api/v1.1/game/662887/feed/live
+0,662570,2022,R,New York Mets,Washington Nationals,/api/v1.1/game/662570/feed/live
+0,661573,2022,R,Cincinnati Reds,Atlanta Braves,/api/v1.1/game/661573/feed/live
+0,661802,2022,R,Texas Rangers,Toronto Blue Jays,/api/v1.1/game/661802/feed/live
+0,662755,2022,R,Cleveland Guardians,Kansas City Royals,/api/v1.1/game/662755/feed/live
+0,661738,2022,R,Seattle Mariners,Minnesota Twins,/api/v1.1/game/661738/feed/live
+0,662019,2022,R,Pittsburgh Pirates,St. Louis Cardinals,/api/v1.1/game/662019/feed/live
+0,663204,2022,R,Milwaukee Brewers,Chicago Cubs,/api/v1.1/game/663204/feed/live
+0,662934,2022,R,Los Angeles Dodgers,Colorado Rockies,/api/v1.1/game/662934/feed/live
+0,662122,2022,R,Miami Marlins,San Francisco Giants,/api/v1.1/game/662122/feed/live
+0,661039,2022,R,Houston Astros,Los Angeles Angels,/api/v1.1/game/661039/feed/live
+0,663395,2022,R,San Diego Padres,Arizona Diamondbacks,/api/v1.1/game/663395/feed/live
+0,661316,2022,R,Boston Red Sox,New York Yankees,/api/v1.1/game/661316/feed/live
